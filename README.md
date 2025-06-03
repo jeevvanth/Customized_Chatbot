@@ -40,6 +40,7 @@ You can see the ETL opertion on these data and for database i have used
   2. Available End points
       *Post (/chat):Questioning the chatbot where we are using two prompts one is for sqlprompt which extract the sql query from the model and gives to the                             summaryprompt of the same model.
         
-
+# Try Not to Use
+   So I have Containerized with the help of docker so in this i had a minor issue msql connection ie., I had problem in running mysql in the docker container So I future will rectify it 
   
 
