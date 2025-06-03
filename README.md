@@ -1,4 +1,4 @@
-# # Customized Chatbot
+#  Customized Chatbot
 A powerful chatbot application built using FastAPI, LangChain, Gradio, and Ollama, with integrated support for document processing and conversational AI over official U.S. Federal Registry documents.
 
 # Overview
