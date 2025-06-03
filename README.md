@@ -92,12 +92,12 @@ A Summary Prompt to present user-friendly output
 # 🖼️ Interface
 Launch the Gradio-based web UI to interact with the chatbot in real-time.
 
-# 🐳 Docker (⚠️ Experimental)
+# Docker ( Experimental)
 A Dockerfile is included for containerization. However, MySQL integration inside Docker is not fully stable yet.
 
 🛠️ Status: Under development — fix for MySQL Docker connectivity pending.
 
-🧩 To-Do / Improvements
+ To-Do / Improvements
 Fix Docker-based MySQL connection
 
 Add user authentication to the interface
@@ -106,7 +106,7 @@ Enhance prompt templates for more accurate SQL generation
 
 Add support for batch queries and file uploads
 
-🧠 Credits
+Credits
 This chatbot integrates:
 
 LangChain
@@ -117,7 +117,7 @@ Gradio
 
 FastAPI
 
-📬 Contact
-Built with  by Jeevvanth
+Contact
+Built with  by Jeevanth Bheeman
 Feel free to raise an issue or PR for improvements!
 
