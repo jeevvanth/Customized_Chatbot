@@ -24,18 +24,18 @@ You can see the ETL opertion on these data and for database i have used
 # Installation
  1.Clone the repository:
     git clone https://github.com/jeevvanth/Customized_Chatbot.git
-    cd Customized_Chatbot
+                 cd Customized_Chatbot
 
   2. Create Virtual Environment:
      python -m venv venv
-     source venv/bin/activate
+                 source venv/bin/activate
   3. For Installing Dependencies:
       pip install -r requirements.txt
 
 # Usage
   1. Start the FastApi Server
      cd chatbot
-     python main.py
+             python main.py
 
   2. Available End points
       *Post (/chat):Questioning the chatbot where we are using two prompts one is for sqlprompt which extract the sql query from the model and gives to the                             summaryprompt of the same model.
