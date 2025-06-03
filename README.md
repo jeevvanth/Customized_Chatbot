@@ -1,46 +1,119 @@
-# Customized_Chatbot
-Chatbot using Ollama ,Langchain , Gradio and FastApi
+🤖 Customized Chatbot
+A powerful chatbot application built using FastAPI, LangChain, Gradio, and Ollama, with integrated support for document processing and conversational AI over official U.S. Federal Registry documents.
 
-So This project implements the chatbot application with an help of FastApi, Ollama, Gradio and Langchain , as we know the purpose of each thing which i have used in this project to this chatbot successfully 
+📌 Overview
+This project demonstrates a robust chatbot implementation that integrates:
 
-I have performed the data pipeline technique inorder to do the data migration from json to database and have taken the json from following website 
+FastAPI for API backend
 
-https://www.federalregister.gov/developers/documentation/api/v1#/Federal%20Register%20Documents/get_documents__format_ 
-This is USA federal registry data API which contains executive documents and other registry related data.
-You can see the ETL opertion on these data and for database i have used 
+Ollama (running llama3:8b) for inference
 
-# Feature
-   * LangChain integration for document retrieval and processing.
-   * Invoking ollama with help of langchain framework.
-   * model which have used is llama3:8b it is good and efficient
-   * Database that high recommand was mysql and tried it was fine do etl
-   * Used Gradio for interface for the application
+LangChain for document retrieval & prompt engineering
 
-# Prerequisites
-  * Python 3.9+
-  * mysql configuration credential are in .env file
-  * Required python packages:FastApi,uvicorn,langchain-core,langchain,langchain-community,python-dotenv,gradio 
+Gradio for a user-friendly interface
 
-# Installation
- 1.Clone the repository:
-    git clone https://github.com/jeevvanth/Customized_Chatbot.git
-                 cd Customized_Chatbot
+MySQL as the backend database
 
-  2. Create Virtual Environment:
-     python -m venv venv
-                 source venv/bin/activate
-  3. For Installing Dependencies:
-      pip install -r requirements.txt
+Additionally, it performs a full ETL (Extract, Transform, Load) pipeline by migrating and processing JSON data from the U.S. Federal Registry API.
 
-# Usage
-  1. Start the FastApi Server
-     cd chatbot
-             python main.py
+📘 API Reference: Federal Register Developer Docs
 
-  2. Available End points
-      *Post (/chat):Questioning the chatbot where we are using two prompts one is for sqlprompt which extract the sql query from the model and gives to the                             summaryprompt of the same model.
-        
-# Try Not to Use
-   So I have Containerized with the help of docker so in this i had a minor issue msql connection ie., I had problem in running mysql in the docker container So I future will rectify it 
-  
+🚀 Features
+🔍 LangChain Integration
+Smart document retrieval and contextual response generation.
+
+🤖 LLaMA 3 (8B) via Ollama
+Efficient, locally hosted language model integration using llama3:8b.
+
+💾 ETL Pipeline
+JSON data from the Federal Register API is cleaned, processed, and stored into a MySQL database.
+
+🧠 SQL + Summarization Prompt Chaining
+Dual prompt mechanism to generate SQL from natural language and then summarize the results.
+
+🖼️ Gradio Interface
+Clean and interactive web UI for seamless chatbot experience.
+
+⚙️ Prerequisites
+Python 3.9+
+
+MySQL database (credentials stored in .env)
+
+Dependencies listed in requirements.txt:
+
+fastapi
+
+uvicorn
+
+langchain
+
+langchain-community
+
+langchain-core
+
+gradio
+
+python-dotenv
+
+🛠️ Installation
+bash
+Copy
+Edit
+# 1. Clone the repository
+git clone https://github.com/jeevvanth/Customized_Chatbot.git
+cd Customized_Chatbot
+
+# 2. Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+🚦 Usage
+▶️ Run the FastAPI Server
+bash
+Copy
+Edit
+cd chatbot
+python main.py
+📡 API Endpoints
+POST /chat
+Accepts a natural language query and returns a chatbot response.
+Internally uses:
+
+A SQL Prompt to extract query
+
+A Summary Prompt to present user-friendly output
+
+🖼️ Interface
+Launch the Gradio-based web UI to interact with the chatbot in real-time.
+
+🐳 Docker (⚠️ Experimental)
+A Dockerfile is included for containerization. However, MySQL integration inside Docker is not fully stable yet.
+
+🛠️ Status: Under development — fix for MySQL Docker connectivity pending.
+
+🧩 To-Do / Improvements
+✅ Fix Docker-based MySQL connection
+
+✅ Add user authentication to the interface
+
+✅ Enhance prompt templates for more accurate SQL generation
+
+✅ Add support for batch queries and file uploads
+
+🧠 Credits
+This chatbot integrates:
+
+LangChain
+
+Ollama
+
+Gradio
+
+FastAPI
+
+📬 Contact
+Built with  by Jeevvanth
+Feel free to raise an issue or PR for improvements!
 
