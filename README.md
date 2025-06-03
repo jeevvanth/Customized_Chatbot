@@ -1,7 +1,7 @@
-🤖 Customized Chatbot
+# # Customized Chatbot
 A powerful chatbot application built using FastAPI, LangChain, Gradio, and Ollama, with integrated support for document processing and conversational AI over official U.S. Federal Registry documents.
 
-📌 Overview
+# Overview
 This project demonstrates a robust chatbot implementation that integrates:
 
 FastAPI for API backend
@@ -18,58 +18,62 @@ Additionally, it performs a full ETL (Extract, Transform, Load) pipeline by migr
 
 📘 API Reference: Federal Register Developer Docs
 
-🚀 Features
-🔍 LangChain Integration
+# Features
+ LangChain Integration
 Smart document retrieval and contextual response generation.
 
-🤖 LLaMA 3 (8B) via Ollama
+# LLaMA 3 (8B) via Ollama
 Efficient, locally hosted language model integration using llama3:8b.
 
-💾 ETL Pipeline
+# ETL Pipeline
 JSON data from the Federal Register API is cleaned, processed, and stored into a MySQL database.
 
-🧠 SQL + Summarization Prompt Chaining
+# SQL + Summarization Prompt Chaining
 Dual prompt mechanism to generate SQL from natural language and then summarize the results.
 
-🖼️ Gradio Interface
+# Gradio Interface
 Clean and interactive web UI for seamless chatbot experience.
 
-⚙️ Prerequisites
-Python 3.9+
+#⚙ Prerequisites
+* Python 3.9+
 
-MySQL database (credentials stored in .env)
+* MySQL database (credentials stored in .env)
 
-Dependencies listed in requirements.txt:
+* Dependencies listed in requirements.txt:
 
-fastapi
+* fastapi
 
-uvicorn
+* uvicorn
 
-langchain
+* langchain
 
-langchain-community
+* langchain-community
 
-langchain-core
+* langchain-core
 
-gradio
+* gradio
 
-python-dotenv
+* python-dotenv
 
-🛠️ Installation
-bash
-Copy
-Edit
+# 🛠️ Installation
 # 1. Clone the repository
+```bash
 git clone https://github.com/jeevvanth/Customized_Chatbot.git
 cd Customized_Chatbot
+```
 
 # 2. Create and activate a virtual environment
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 # 3. Install dependencies
+```bash
 pip install -r requirements.txt
-🚦 Usage
+```
+
+# 🚦 Usage
 ▶️ Run the FastAPI Server
 bash
 Copy
@@ -85,22 +89,22 @@ A SQL Prompt to extract query
 
 A Summary Prompt to present user-friendly output
 
-🖼️ Interface
+# 🖼️ Interface
 Launch the Gradio-based web UI to interact with the chatbot in real-time.
 
-🐳 Docker (⚠️ Experimental)
+# 🐳 Docker (⚠️ Experimental)
 A Dockerfile is included for containerization. However, MySQL integration inside Docker is not fully stable yet.
 
 🛠️ Status: Under development — fix for MySQL Docker connectivity pending.
 
 🧩 To-Do / Improvements
-✅ Fix Docker-based MySQL connection
+Fix Docker-based MySQL connection
 
-✅ Add user authentication to the interface
+Add user authentication to the interface
 
-✅ Enhance prompt templates for more accurate SQL generation
+Enhance prompt templates for more accurate SQL generation
 
-✅ Add support for batch queries and file uploads
+Add support for batch queries and file uploads
 
 🧠 Credits
 This chatbot integrates:
