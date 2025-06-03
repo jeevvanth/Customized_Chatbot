@@ -1,0 +1,25 @@
+version: '3.8'
+services:
+  fastapi:
+    build:
+      context: ./chatbot
+    image: cb_fast-api
+    ports:
+     - "8080:8000"
+    container_name: chatbot_services
+
+  gradio:
+    build:
+      context: ./gradio
+    image: gradio-app
+    ports:
+      - "7861:7860"
+    container_name: gradio_services
+
+  mysql:
+      image: mysql:5.7
+      environment:
+        MYSQL_ROOT_PASSWORD: 1234
+        MYSQL_DATABASE: Federal
+      ports:
+        - "3307:3306"

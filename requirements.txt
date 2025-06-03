@@ -1,0 +1,9 @@
+gradio
+fastapi
+langchain
+langchain-community
+langchain-core
+pymysql==1.1.0
+uvicorn
+
+

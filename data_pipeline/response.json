@@ -1,0 +1,568 @@
+{
+  "count": 975938,
+  "description": "All Documents",
+  "total_pages": 50,
+  "next_page_url": "https://www.federalregister.gov/api/v1/documents?format=json&page=2&per_page=20",
+  "results": [
+    {
+      "title": "Submission for Office of Management and Budget Review; Prevention Services Data Collection (Office of Management and Budget #0970-0529)",
+      "type": "Notice",
+      "abstract": "The Administration for Children and Families (ACF), Children's Bureau is requesting a 3-year extension of the Prevention Services Data Collection (Office of Management and Budget (OMB) #0970-0529, expiration May 31, 2025). There are no changes requested to the data collection.",
+      "document_number": "2025-09371",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09371/submission-for-office-of-management-and-budget-review-prevention-services-data-collection-office-of",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09371.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09371.pdf?1748004310",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Administration for Children and Families",
+          "name": "Children and Families Administration",
+          "id": 49,
+          "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
+          "parent_id": 221,
+          "slug": "children-and-families-administration"
+        }
+      ],
+      "excerpts": "The Administration for Children and Families (ACF), Children's Bureau is requesting a 3-year extension of the Prevention Services Data Collection (Office of Management and Budget (OMB) #0970-0529, expiration May 31, 2025). There are no changes..."
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-09385",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09385/center-for-scientific-review-notice-of-closed-meetings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09385.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09385.pdf?1748004312",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "parent_id": 221,
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Notice of Formal Determination on Records Release",
+      "type": "Notice",
+      "abstract": "The Civil Rights Cold Case Records Review Board received 418 pages of records from the National Archives and Records Administration (NARA), the Department of Justice, and the Federal Bureau of Investigation (FBI) related to three civil rights cold case incidents to which the Review Board assigned the unique identifiers 2024-003-003, 2024-003-055, and 2024-003-066. The agencies did not propose any postponements of disclosure in the records related to incident 2024-003-066. NARA, the Department of Justice, and the FBI proposed 559 postponements in the records related to the other two incidents. The FBI later withdrew 44 of the postponements the Bureau proposed. On May 9, 2025 and May 16, 2025, the Review Board met and approved 161 postponements and portions of 33 additional postponements, and determined that 354 pages in full and 64 pages in part should be publicly disclosed in the Civil Rights Cold Case Records Collection. By issuing this notice, the Review Board complies with the Civil Rights Cold Case Records Collection Act of 2018 that requires the Review Board to publish in the Federal Register its determinations on the disclosure or postponement of records in the Collection no more than 14 days after the date of its decision.",
+      "document_number": "2025-09417",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09417/notice-of-formal-determination-on-records-release",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09417.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09417.pdf?1748005267",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "Civil Rights Cold Case Records Review Board",
+          "name": "Civil Rights Cold Case Records Review Board",
+          "id": 618,
+          "url": "https://www.federalregister.gov/agencies/civil-rights-cold-case-records-review-board",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/618",
+          "parent_id": null,
+          "slug": "civil-rights-cold-case-records-review-board"
+        }
+      ],
+      "excerpts": "The Civil Rights Cold Case Records Review Board received 418 pages of records from the National Archives and Records Administration (NARA), the Department of Justice, and the Federal Bureau of Investigation (FBI) related to three civil rights cold case..."
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Workforce System Metrics",
+      "type": "Notice",
+      "abstract": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of the collection to OMB.",
+      "document_number": "2025-09418",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09418/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09418.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09418.pdf?1748004316",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "Economic Development Administration",
+          "name": "Economic Development Administration",
+          "id": 120,
+          "url": "https://www.federalregister.gov/agencies/economic-development-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/120",
+          "parent_id": 54,
+          "slug": "economic-development-administration"
+        }
+      ],
+      "excerpts": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our..."
+    },
+    {
+      "title": "Marine Mammals; File No. 28919",
+      "type": "Notice",
+      "abstract": "Notice is hereby given that Matthieu Haentjens, Friends of San Juan Island, 707 Boyce Road, Friday Harbor, WA 98250, has applied in due form for a permit to conduct commercial and educational photography on marine mammals.",
+      "document_number": "2025-09440",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09440/marine-mammals-file-no-28919",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09440.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09440.pdf?1748004318",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "Notice is hereby given that Matthieu Haentjens, Friends of San Juan Island, 707 Boyce Road, Friday Harbor, WA 98250, has applied in due form for a permit to conduct commercial and educational photography on marine mammals."
+    },
+    {
+      "title": "Marine Mammals; File No. 28894",
+      "type": "Notice",
+      "abstract": "Notice is hereby given that a permit has been issued to Charted Marine Consulting, 536 Fairfax Ave., Norfolk, VA 23507 (Responsible Party: Kristi Fazioli) to conduct research on bottlenose dolphins (Tursiops truncatus).",
+      "document_number": "2025-09508",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09508/marine-mammals-file-no-28894",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09508.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09508.pdf?1748004323",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "Notice is hereby given that a permit has been issued to Charted Marine Consulting, 536 Fairfax Ave., Norfolk, VA 23507 (Responsible Party: Kristi Fazioli) to conduct research on bottlenose dolphins (Tursiops truncatus)."
+    },
+    {
+      "title": "Pacific Fishery Management Council; Public Meeting",
+      "type": "Notice",
+      "abstract": "The Pacific Fishery Management Council's (Pacific Council) Ad Hoc Sacramento River Fall Chinook (SRFC) Workgroup will hold a two-day online meeting.",
+      "document_number": "2025-09362",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09362/pacific-fishery-management-council-public-meeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09362.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09362.pdf?1748004309",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "The Pacific Fishery Management Council's (Pacific Council) Ad Hoc Sacramento River Fall Chinook (SRFC) Workgroup will hold a two-day online meeting."
+    },
+    {
+      "title": "New England Fishery Management Council; Public Meeting",
+      "type": "Notice",
+      "abstract": "The New England Fishery Management Council (Council) is scheduling a public meeting of its Scallop Advisory Panel via webinar to consider actions affecting New England fisheries in the exclusive economic zone (EEZ). Recommendations from this group will be brought to the full Council for formal consideration and action, if appropriate.",
+      "document_number": "2025-09446",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09446/new-england-fishery-management-council-public-meeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09446.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09446.pdf?1748004319",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "The New England Fishery Management Council (Council) is scheduling a public meeting of its Scallop Advisory Panel via webinar to consider actions affecting New England fisheries in the exclusive economic zone (EEZ). Recommendations from this group will..."
+    },
+    {
+      "title": "Pacific Fishery Management Council; Public Meetings",
+      "type": "Notice",
+      "abstract": "The Pacific Fishery Management Council (Pacific Council) and its advisory bodies will meet June 11-16, 2025 in Rohnert Park, California and via webinar. The Pacific Council meeting will be live streamed with the opportunity to provide public comment remotely. The following groups will meet in person in Rohnert Park: Budget Committee, Enforcement Consultants, Groundfish Advisory Subpanel, Groundfish Management Team, Highly Migratory Species Advisory Subpanel, Highly Migratory Species Management Team, Legislative Committee, and the Scientific and Statistical Committee.",
+      "document_number": "2025-09360",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09360/pacific-fishery-management-council-public-meetings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09360.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09360.pdf?1748004308",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "The Pacific Fishery Management Council (Pacific Council) and its advisory bodies will meet June 11-16, 2025 in Rohnert Park, California and via webinar. The Pacific Council meeting will be live streamed with the opportunity to provide public comment..."
+    },
+    {
+      "title": "Arms Sales Notification",
+      "type": "Notice",
+      "abstract": "The DoD is publishing the unclassified text of an arms sales notification.",
+      "document_number": "2025-09363",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09363/arms-sales-notification",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09363.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09363.pdf?1748004309",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF DEFENSE",
+          "name": "Defense Department",
+          "id": 103,
+          "url": "https://www.federalregister.gov/agencies/defense-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/103",
+          "parent_id": null,
+          "slug": "defense-department"
+        },
+        {
+          "raw_name": "Office of the Secretary"
+        }
+      ],
+      "excerpts": "The DoD is publishing the unclassified text of an arms sales notification."
+    },
+    {
+      "title": "Personnel Development To Improve Services and Results for Children With Disabilities-Interdisciplinary Preparation of Early Intervention, Special Education, and Related Services Personnel Serving Children With Disabilities Who Have High-Intensity Needs",
+      "type": "Notice",
+      "abstract": "The Department of Education (Department) is issuing a notice inviting applications for new awards for fiscal year (FY) 2025 for Personnel Development to Improve Services and Results for Children with Disabilities--Interdisciplinary Preparation of Early Intervention, Special Education, and Related Services Personnel Serving Children with Disabilities who have High-Intensity Needs.",
+      "document_number": "2025-09431",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09431/personnel-development-to-improve-services-and-results-for-children-with",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09431.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09431.pdf?1748004317",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF EDUCATION",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        }
+      ],
+      "excerpts": "The Department of Education (Department) is issuing a notice inviting applications for new awards for fiscal year (FY) 2025 for Personnel Development to Improve Services and Results for Children with Disabilities--Interdisciplinary Preparation of Early..."
+    },
+    {
+      "title": "Applications for New Awards; Parent Information and Training Program",
+      "type": "Notice",
+      "abstract": "The Department of Education (Department) is issuing a notice inviting applications for new awards for fiscal year (FY) 2025 for the Parent Information and Training Program.",
+      "document_number": "2025-09428",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09428/applications-for-new-awards-parent-information-and-training-program",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09428.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09428.pdf?1748004317",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF EDUCATION",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        }
+      ],
+      "excerpts": "The Department of Education (Department) is issuing a notice inviting applications for new awards for fiscal year (FY) 2025 for the Parent Information and Training Program."
+    },
+    {
+      "title": "Applications for New Awards; Personnel Development To Improve Services and Results for Children With Disabilities-Personnel Preparation of Special Education, Early Intervention, and Related Services Personnel at Historically Black Colleges and Universities, Tribally Controlled Colleges and Universities, and Other Minority Serving Institutions",
+      "type": "Notice",
+      "abstract": "The Department of Education (Department) is issuing a notice inviting applications for new awards for fiscal year (FY) 2025 for Personnel Development to Improve Services and Results for Children with Disabilities--Personnel Preparation of Special Education, Early Intervention, and Related Services Personnel at Historically Black Colleges and Universities, Tribally Controlled Colleges and Universities, and Other Minority Serving Institutions.",
+      "document_number": "2025-09433",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09433/applications-for-new-awards-personnel-development-to-improve-services-and-results-for-children-with",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09433.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09433.pdf?1748004318",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF EDUCATION",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        }
+      ],
+      "excerpts": "The Department of Education (Department) is issuing a notice inviting applications for new awards for fiscal year (FY) 2025 for Personnel Development to Improve Services and Results for Children with Disabilities--Personnel Preparation of Special..."
+    },
+    {
+      "title": "List of Approved Ability to Benefits Tests",
+      "type": "Notice",
+      "abstract": "This notice updates the list of Ability to Benefits (ATB) tests approved by the Secretary.",
+      "document_number": "2025-09313",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09313/list-of-approved-ability-to-benefits-tests",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09313.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09313.pdf?1748004308",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "Education Department",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        }
+      ],
+      "excerpts": "This notice updates the list of Ability to Benefits (ATB) tests approved by the Secretary."
+    },
+    {
+      "title": "Applications for New Awards; Personnel Development to Improve Services and Results for Children With Disabilities-Preparation of Special Education and Early Intervention Administrators",
+      "type": "Notice",
+      "abstract": "The Department of Education (Department) is issuing a notice inviting applications for new awards for fiscal year (FY) 2025 for Personnel Development to Improve Services and Results for Children with Disabilities--Preparation of Special Education and Early Intervention Administrators.",
+      "document_number": "2025-09430",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09430/applications-for-new-awards-personnel-development-to-improve-services-and-results-for-children-with",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09430.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09430.pdf?1748004317",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF EDUCATION",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        }
+      ],
+      "excerpts": "The Department of Education (Department) is issuing a notice inviting applications for new awards for fiscal year (FY) 2025 for Personnel Development to Improve Services and Results for Children with Disabilities--Preparation of Special Education and..."
+    },
+    {
+      "title": "Submission for Office of Management and Budget Review; Electronic Document Exchange (Office of Management and Budget #: 0970-0435)",
+      "type": "Notice",
+      "abstract": "The Office of Child Support Enforcement (OCSE), Administration for Children and Families (ACF), is requesting the Office of Management and Budget (OMB) to approve the Electronic Document Exchange (EDE), with minor revisions, for an additional three years. State child support agencies (CSAs) use the EDE to improve case processing. The current OMB approval expires on June 30, 2025.",
+      "document_number": "2025-09379",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09379/submission-for-office-of-management-and-budget-review-electronic-document-exchange-office-of",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09379.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09379.pdf?1748004311",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Administration for Children and Families",
+          "name": "Children and Families Administration",
+          "id": 49,
+          "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
+          "parent_id": 221,
+          "slug": "children-and-families-administration"
+        }
+      ],
+      "excerpts": "The Office of Child Support Enforcement (OCSE), Administration for Children and Families (ACF), is requesting the Office of Management and Budget (OMB) to approve the Electronic Document Exchange (EDE), with minor revisions, for an additional three..."
+    },
+    {
+      "title": "Submission for Office of Management and Budget Review; State Self-Assessment Review and Report (Office of Management and Budget No.: 0970-0223)",
+      "type": "Notice",
+      "abstract": "The Administration for Children and Families (ACF), Office of Child Support Enforcement (OCSE), is requesting the Office of Management and Budget (OMB) to approve an extension of the State Self- Assessment Review and Report (SARR) for an additional three years. The information collected in the reports helps state child support agencies and OCSE determine whether the agencies meet federal child support performance requirements. The contact information has been revised. The current OMB approval expires May 31, 2025.",
+      "document_number": "2025-09368",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09368/submission-for-office-of-management-and-budget-review-state-self-assessment-review-and-report-office",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09368.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09368.pdf?1748004309",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Administration for Children and Families",
+          "name": "Children and Families Administration",
+          "id": 49,
+          "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
+          "parent_id": 221,
+          "slug": "children-and-families-administration"
+        }
+      ],
+      "excerpts": "The Administration for Children and Families (ACF), Office of Child Support Enforcement (OCSE), is requesting the Office of Management and Budget (OMB) to approve an extension of the State Self- Assessment Review and Report (SARR) for an additional..."
+    },
+    {
+      "title": "Submission for Office of Management and Budget Review: Unaccompanied Alien Children Bureau Assessments for Children and Sponsors (Office of Management and Budget #0970-NEW)",
+      "type": "Notice",
+      "abstract": "The Office of Refugee Resettlement (ORR), Administration for Children and Families (ACF), U.S. Department of Health and Human Services, requests approval from the Office of Management and Budget (OMB) and invites public comments on the proposed information collection, including proposed changes. The request consists of several forms that will allow the Unaccompanied Alien Children Bureau (UAC Bureau) to continue conducting statutorily mandated assessments of unaccompanied alien children (UAC--also referred to as \"child\" or \"children\") in ORR care and custody as well as their sponsors. These assessments allow ORR to understand the status and needs of the child and their potential sponsor; assessment findings inform all decisions concerning the child's care while in ORR custody and eventual reunification with a sponsor.",
+      "document_number": "2025-09370",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09370/submission-for-office-of-management-and-budget-review-unaccompanied-alien-children-bureau",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09370.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09370.pdf?1748004310",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Administration for Children and Families",
+          "name": "Children and Families Administration",
+          "id": 49,
+          "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
+          "parent_id": 221,
+          "slug": "children-and-families-administration"
+        }
+      ],
+      "excerpts": "The Office of Refugee Resettlement (ORR), Administration for Children and Families (ACF), U.S. Department of Health and Human Services, requests approval from the Office of Management and Budget (OMB) and invites public comments on the proposed..."
+    },
+    {
+      "title": "Submission for Office of Management and Budget Review; Proposed Information Collection Activity; Tribal Maternal, Infant, and Early Childhood Home Visiting Program: Implementation Plan Guidance and Community Needs and Readiness Assessment Guidance",
+      "type": "Notice",
+      "abstract": "The Administration for Children and Families (ACF), Office of Early Childhood Development (ECD) is requesting revisions to the Tribal Maternal, Infant, and Early Childhood Home Visiting (MIECHV) Program: Implementation Plan Guidance and Community Needs and Readiness Assessment (CNRA) Guidance (Office of Management and Budget (OMB) #: 0970-0611; expiration June 30, 2026) and a 3-year extension of approval.",
+      "document_number": "2025-09437",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09437/submission-for-office-of-management-and-budget-review-proposed-information-collection-activity",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09437.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09437.pdf?1748004318",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Administration for Children and Families",
+          "name": "Children and Families Administration",
+          "id": 49,
+          "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
+          "parent_id": 221,
+          "slug": "children-and-families-administration"
+        }
+      ],
+      "excerpts": "The Administration for Children and Families (ACF), Office of Early Childhood Development (ECD) is requesting revisions to the Tribal Maternal, Infant, and Early Childhood Home Visiting (MIECHV) Program: Implementation Plan Guidance and Community Needs..."
+    },
+    {
+      "title": "Submission for Office of Management and Budget (OMB) Review; National Youth in Transition Database (NYTD) Services and Youth Outcomes Survey (OMB #0970-0340)",
+      "type": "Notice",
+      "abstract": "The Administration for Children and Families (ACF) is requesting a three-year extension of the National Youth in Transition Database (NYTD) Services and Youth Outcomes Survey (OMB#: 0970-0340, expiration date 05/31/2025). There are no changes requested to the form.",
+      "document_number": "2025-09367",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/27/2025-09367/submission-for-office-of-management-and-budget-omb-review-national-youth-in-transition-database-nytd",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-27/pdf/2025-09367.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09367.pdf?1748004309",
+      "publication_date": "2025-05-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Administration for Children and Families",
+          "name": "Children and Families Administration",
+          "id": 49,
+          "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
+          "parent_id": 221,
+          "slug": "children-and-families-administration"
+        }
+      ],
+      "excerpts": "The Administration for Children and Families (ACF) is requesting a three-year extension of the National Youth in Transition Database (NYTD) Services and Youth Outcomes Survey (OMB#: 0970-0340, expiration date 05/31/2025). There are no changes requested..."
+    }
+  ]
+}
